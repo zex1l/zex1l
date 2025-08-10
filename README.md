@@ -11,3 +11,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zex1l&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zex1l&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<hr/>
+
+# My projects
+
+1. [Admin Dashboard](https://admin-dashboard-delta-one-55.vercel.app/) - [github](https://github.com/zex1l/Admin-Dashboard)
+2. [Resume-Roadmap-AI](https://resume-ai-eta-nine.vercel.app/) - [github](https://github.com/zex1l/resume-ai)
