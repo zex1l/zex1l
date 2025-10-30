@@ -16,4 +16,3 @@
 # My projects:
 
 1. [Admin Dashboard](https://admin-dashboard-delta-one-55.vercel.app/) - [github](https://github.com/zex1l/Admin-Dashboard)
-2. [Resume-Roadmap-AI](https://resume-ai-eta-nine.vercel.app/) - [github](https://github.com/zex1l/resume-ai)
