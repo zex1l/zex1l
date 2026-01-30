@@ -13,6 +13,3 @@
 
 <hr/>
 
-# My projects:
-
-1. [Admin Dashboard](https://admin-dashboard-delta-one-55.vercel.app/) - [github](https://github.com/zex1l/Admin-Dashboard)
